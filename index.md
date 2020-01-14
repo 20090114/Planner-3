@@ -8,9 +8,9 @@
 | Biology: Mrs. Fries         | None                                                       |
 |                             |                                                            |
 |**Class: Tuesday**           |**Assignment**                                              |
-| Geometry: Mr. Inman         | 8-3 Worksheet due tomorrow                                 |
-| Concert Band: Mr. Bharttari | Chair Tests on Mon. Tues. and Weds.                        |
-| English 9: Mrs. Bloomer     | "Penelope and Odysseus" study guide questions due tomorow  |
+| Geometry: Mr. Inman         | None                                                       |
+| Concert Band: Mr. Bharttari | None                                                       |
+| English 9: Mrs. Bloomer     | None                                                       |
 | Civics/Econ: Mr. Carlson    | None                                                       |
 | Biology: Mrs. Fries         | None                                                       |
 |                             |                                                            |
